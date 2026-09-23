@@ -1616,3 +1616,9 @@ a {
         font-size: 58px;
     }
 }
+
+
+/* TSC contact QR */
+.contact-qr{margin:36px auto 0;text-align:center}
+.contact-qr img{display:block;width:min(220px,70vw);height:auto;margin:0 auto 14px;background:#fff;padding:12px;border-radius:12px}
+.contact-qr p{margin:0}
